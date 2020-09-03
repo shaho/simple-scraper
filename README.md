@@ -1,3 +1,3 @@
 # simple-scraper
 
-Simple scraper script in order to grab stock prices.
+Simple scraper script (JS) in order to grab stock prices.
